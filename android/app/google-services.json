@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "525156862217",
+    "project_id": "fluxfirexstorage",
+    "storage_bucket": "fluxfirexstorage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525156862217:android:c97c9698775d5911cc6bd8",
+        "android_client_info": {
+          "package_name": "com.example.flux_firex_storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525156862217-purmd8tpfctes9o8eokpjplr4au9r6vf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flux_firex_storage",
+            "certificate_hash": "089864d08e8321692df4ecbe9dc1219b1d4857a6"
+          }
+        },
+        {
+          "client_id": "525156862217-g0eudkbu2enqugv4dmngiin0agn9tn1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-mUsoYu-BTivqjrt-HmlHqsHms68a0Oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525156862217-g0eudkbu2enqugv4dmngiin0agn9tn1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
